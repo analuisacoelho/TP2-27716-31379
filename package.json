@@ -1,0 +1,10 @@
+{
+  "name": "forest-run",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server . -a 127.0.0.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
