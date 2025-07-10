@@ -34,7 +34,7 @@ export default class Player extends Phaser.Physics.Arcade.Sprite {
     
     // Controlo de saltos múltiplos
     this.jumpCount = 0;     // número atual de saltos
-    this.maxJumps = 1;      // número máximo permitido
+    this.maxJumps = 2;      // número máximo permitido
     this.isJumping = false; // flag de estado
   }
 
